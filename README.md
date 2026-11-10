@@ -48,3 +48,17 @@ switchport port-security
 switchport port-security maximum 1
 switchport port-security violation protect
 
+
+
+
+
+## Screenshots
+
+### Full Port Security Config (Fa0/1, Fa0/2, Fa0/3)
+![Full Config](01-Full-port-security-config-Fa0-1-Fa0-2-Fa0-3.png)
+
+### Breach Test - Ping Blocked (100% Loss)
+![Breach Test](02-Fa0-2-Breach-Test-Ping-Blocked-100-Loss.png)
+
+### Verification - Show Port Security Secure-Up
+![Verification](03-Fa0-2-Show-Port-Security-Verified-Secure-Up.png)
