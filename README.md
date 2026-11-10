@@ -1,6 +1,6 @@
 
 Project Lab: Switchport Security.
-
+I configured port-security on Fa0/1, Fa0/2, Fa0/3, tested breach on Fa0/2 with unauthorized MAC, ping blocked 100%, and verified with show port-security.
  Topology
 - 1 Switch 2960
 - 3 Laptops
